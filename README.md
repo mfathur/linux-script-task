@@ -14,6 +14,8 @@ Install Linux di Virtual Machine (VMware):
   - Finish setting virtual machine, sistem operasi Linux akan mulai booting
   - Sistem Operasi Linux sudah berhasil di install
 
+
+
 - Use LXQt as desktop environment.
  
 Kami tidak menggunakan LXQt dan lebih memilih untuk menggunakan Gnome karena DE ini adalah DE paling umum digunakan oleh Ubuntu. Selain itu, lebih banyak bahan bacaan yang dapat digunakan sebagai referensi ketika menggunakan Gnome sebagai DE.
