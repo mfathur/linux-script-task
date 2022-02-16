@@ -1,3 +1,10 @@
+Anggota Kelompok:
+- Sem Abraham
+- M Fathurrohman
+- M Taufiq Azra H
+- M Hariyanto
+- Yohanes Nathaniel Raka
+
 
 
 1. Install linux (any distro, debian-based is preferred)
