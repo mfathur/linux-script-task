@@ -32,6 +32,7 @@ Kami tidak menggunakan LXQt dan lebih memilih untuk menggunakan Gnome karena DE 
 
 4. Create a service stated in this link
 
+kami memanfaatkan perintah showkey untuk melakukan print scan code atau ascii untuk setiap tombol di keyboard yang di tekan. kemudian kami melakukan parsing sehingga di dapat file dengan isi scan code untuk setiap tombol. Harapannya, setiap scan code dapat diterjemahkan menjadi ascii lalu dibuat suatu filter sehingga dapat diketahui tombol yang masuk dalam rentang ascii (0x20 - 0x7f) . kemudian dibuat perintah untuk menuliskan text ke file /tmp/keypressed.log
 
 5. Create a script to list HID and Storage Devices connected through USB
 
