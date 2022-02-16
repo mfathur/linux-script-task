@@ -8,7 +8,7 @@ Install Linux di Virtual Machine (VMware):
   * Pilih file, kemudian pilih new Virtual Machine
   * Browse file Linux yang sudah didownload, pastikan file yang di browse sudah terdeteksi
   * Isi Fullname, Username, dan tentukan password untuk sistem operasi Linux
-  * Atur nama virtual machine dan mengatur penyimpanan file virtual machine Linux
+  * Atur nama virtual machine dan atur penyimpanan file virtual machine Linux
   * Pilih besar disk size untuk alokasi penyimpanan virtual machine
   * Customize Hardware sesuai kebutuhan dan spesifikasi komputer
   * Finish setting virtual machine, sistem operasi Linux akan mulai booting
