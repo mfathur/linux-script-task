@@ -1,3 +1,6 @@
+#!/bin/bash
+
+cat > ~/.config/autostart/Terminal.desktop <<EOF
 [Desktop Entry]
 Name=Terminal
 Comment= Open linux terminal
@@ -12,3 +15,5 @@ X-GNOME-SingleWindow=false
 OnlyShowIn=GNOME;Unity;
 Actions=new-window;preferences;
 X-Ubuntu-Gettext-Domain=gnome-terminal
+EOF
+
