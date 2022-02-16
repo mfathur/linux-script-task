@@ -2,7 +2,7 @@
 
 1. Install linux (any distro, debian-based is preferred)
 
-Install Linux di Virtual Machine (VMware):
+Instalasi Linux di Virtual Machine (VMware):
   * Install Virtual Machine 
   * Buka Virtual Machine
   * Pilih file, kemudian pilih new Virtual Machine
